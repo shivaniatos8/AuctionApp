@@ -1,0 +1,10 @@
+model\RankingMechanism.class
+model\AuctionMechanism.class
+model\PricingMechanism.class
+io\starter\Main.class
+model\AuctionType.class
+model\Bid.class
+model\SearchResult.class
+services\AuctionService.class
+model\Bidder.class
+model\SearchTerm.class

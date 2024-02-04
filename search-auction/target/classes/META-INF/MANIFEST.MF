@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: comp
+Build-Jdk: 17.0.9
+Implementation-Title: search-auction
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sponsoredsearchauction
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/search-auction
+ /
+Created-By: Maven Integration for Eclipse
+
